@@ -1,0 +1,7 @@
+23:40:41.773 [main] INFO  com.Banking.TestCases.BaseClass - Entered password
+23:40:43.730 [main] INFO  com.Banking.TestCases.BaseClass - clicked on login
+23:40:43.738 [main] INFO  com.Banking.TestCases.BaseClass - Page title verified successfull
+23:56:29.779 [main] INFO  com.Banking.TestCases.BaseClass - URL Opened
+23:56:29.888 [main] INFO  com.Banking.TestCases.BaseClass - Entered Username
+23:56:29.960 [main] INFO  com.Banking.TestCases.BaseClass - Entered password
+23:56:31.192 [main] INFO  com.Banking.TestCases.BaseClass - clicked on login

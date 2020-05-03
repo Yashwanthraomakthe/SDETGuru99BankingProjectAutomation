@@ -1,0 +1,7 @@
+19:47:02.784 [main] INFO  com.Banking.TestCases.BaseClass - Entered Username
+19:47:02.899 [main] INFO  com.Banking.TestCases.BaseClass - Entered password
+19:47:04.386 [main] INFO  com.Banking.TestCases.BaseClass - clicked on login
+19:47:04.393 [main] INFO  com.Banking.TestCases.BaseClass - Page title verified successfull
+19:47:21.642 [main] INFO  com.Banking.TestCases.BaseClass - this is passed case
+19:47:29.670 [main] INFO  com.Banking.TestCases.BaseClass - this is passed case
+19:47:37.730 [main] INFO  com.Banking.TestCases.BaseClass - this is passed case
